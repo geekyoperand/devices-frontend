@@ -40,7 +40,7 @@ Create a new file at the root folder named as
 .env
 ```
 
-Copy the contents from sample.env and copy it to .env
+Copy the contents from example.env and copy it to .env
 
 ## Run
 
