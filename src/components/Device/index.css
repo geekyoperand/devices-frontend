@@ -1,22 +1,22 @@
 .device-container {
-    width: 100%;
-    display: flex;
-    border: 1px solid rgb(184, 49, 26);
-    border: 1px solid rgb(184, 49, 26);
-    font-size: 14px;
-    padding: 10px;
-    margin-bottom: 7px;
+  width: 100%;
+  display: flex;
+  border: 1px solid rgb(184, 49, 26);
+  border: 1px solid rgb(184, 49, 26);
+  font-size: 14px;
+  padding: 10px;
+  margin-bottom: 7px;
 }
 .device-name {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 .device-type {
-    color: rgb(65, 65, 230);
-    text-transform: capitalize;
+  color: rgb(65, 65, 230);
+  text-transform: capitalize;
 }
 .device-action {
-    display: flex;
-    width: 25%;
-    justify-content: space-evenly;
-    align-items: center;
+  display: flex;
+  width: 25%;
+  justify-content: space-evenly;
+  align-items: center;
 }
