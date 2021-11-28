@@ -1,0 +1,29 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.dashboard-container {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dashboard-view {
+    width: 65%;
+}
+.device-filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.device-filter-dropdown,
+.add-device {
+    margin: 15px;
+    align-items: center;
+    display: flex;
+}
+.device-type-dropdown,
+.sort_by_dropdown {
+    margin: 10px;
+}
